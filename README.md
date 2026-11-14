@@ -3,6 +3,7 @@ FOOTPRINTING & NETWORK SCANNING PHASES
 W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
 
 | Pentester Name (Cybersecurity Professional) |	Prakriti Acharya                                                                                      |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Program/Batch	                              | B084-Networkwalks                                                                                     |
 | Date	                                      | 14 November 2026                                                                                      |
 | Modules completed	                          | W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning)                                             |
