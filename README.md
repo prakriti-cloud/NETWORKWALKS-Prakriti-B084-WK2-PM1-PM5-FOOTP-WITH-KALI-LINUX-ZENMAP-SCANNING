@@ -118,7 +118,7 @@ Prakriti Acharya
 Cybersecurity Intern B084  
 LinkedIn: https://lnkd.in/p/g4i9mXS5
 
-**📌 Project Information**
+**📌 Project Information**  
 Program Name: Cybersecurity program at Networkwalks | Week: 02
 
 
