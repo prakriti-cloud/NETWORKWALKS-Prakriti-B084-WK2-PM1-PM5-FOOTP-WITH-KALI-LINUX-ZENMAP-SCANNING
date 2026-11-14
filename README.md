@@ -1,29 +1,18 @@
-**📌 Project Overview**  
-This project focuses on passive and active footprinting alongside local network discovery using Kali Linux and Zenmap.  
-The purpose of the lab is to gather publicly available domain intelligence, fingerprint web infrastructure, and map active hosts across a local subnet without disrupting network operations.  
-By combining command-line OSINT utilities with graphical network scanning, the workflow demonstrates how security analysts build complete visibility over both external web targets and internal local networks.
+**PENETRATION TESTING REPORT**  
+FOOTPRINTING & NETWORK SCANNING PHASES  
+W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
 
-**🎯 Objectives**  
-The main objectives of this project are to:  
-- Gather domain registration records, registrar details, and name servers using whois.  
-- Fingerprint target web servers, CMS platforms, and underlying frameworks with whatweb.  
-- Resolve public IPv4 addresses and inspect raw HTTP response headers via nslookup and curl.  
-- Detect Web Application Firewalls (WAFs) protecting target domains using wafw00f.  
-- Enumerate DNS records (SOA, NS, MX, TXT, SRV) and verify DNSSEC configuration with dnsrecon.  
-- Identify local network interfaces, IPv4 addresses, and CIDR subnet ranges using ipconfig.  
-- Discover live hosts and analyze hardware MAC address vendors on a /24 subnet using Zenmap (nmap -sn).  
-- Export a visual network topology map to document host-to-gateway relationships.
+| Pentester Name (Cybersecurity Professional) |	Prakriti Acharya |
+| Program/Batch	| B084-Networkwalks |
+| Date	| 14 November 2026 |
+| Modules completed	| W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning) |
+| Client/Target	| 1. Networkwalks (secured written permission already)  2. My own local LAN Network |
+| Permission secured from client?	| Yes |
+| Phases covered	| Phase 1: Reconnaissance & Footprinting  Phase 2: Scanning & Network Discovery  Phase 3-5: In Progress |
 
-**🛡️ Usage & Practical Applications**  
-The techniques and tools practiced in this lab provide foundational reconnaissance skills for authorized security assessments and network administration.  
-They can be applied to activities such as:  
-- External attack surface mapping and OSINT gathering  
-- DNS infrastructure auditing and misconfiguration checks  
-- Web technology stack and WAF identification  
-- Local subnet calculation and CIDR network scoping  
-- Active device discovery and unauthorized host detection  
-- Hardware MAC address OUI and vendor fingerprinting  
-- Visual network topology documentation
+1. Liability Disclaimer
+I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
+
 
 **Evidences of Footprinting and Scanning**  
 <img width="953" height="533" alt="Screenshot 2026-11-13 082920" src="https://github.com/user-attachments/assets/4bb94b01-c217-437f-8677-49b7fd63f4ab" />  
