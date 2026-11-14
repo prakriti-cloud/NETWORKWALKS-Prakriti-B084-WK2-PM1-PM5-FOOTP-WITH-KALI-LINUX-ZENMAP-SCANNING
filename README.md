@@ -2,13 +2,15 @@
 FOOTPRINTING & NETWORK SCANNING PHASES  
 W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
 
-| Pentester Name (Cybersecurity Professional) |	Prakriti Acharya |
-| Program/Batch	| B084-Networkwalks |
-| Date	| 14 November 2026 |
-| Modules completed	| W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning) |
-| Client/Target	| 1. Networkwalks (secured written permission already)  2. My own local LAN Network |
-| Permission secured from client?	| Yes |
-| Phases covered	| Phase 1: Reconnaissance & Footprinting  Phase 2: Scanning & Network Discovery  Phase 3-5: In Progress |
+| Pentester Name (Cybersecurity Professional) |	Prakriti Acharya                                                                              |
+| Program/Batch	                              | B084-Networkwalks                                                                             |
+| Date	                                      | 14 November 2026                                                                              |
+| Modules completed	                          | W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning)                                     |
+| Client/Target	                              | 1. Networkwalks (secured written permission already)  2. My own local LAN Network             |
+| Permission secured from client?	            | Yes                                                                                           |
+| Phases covered	                            | Phase 1: Reconnaissance & Footprinting  
+Phase 2: Scanning & Network Discovery  
+Phase 3-5: In Progress                                                                                                                        |
 
 1. Liability Disclaimer
 I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
